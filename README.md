@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @N1MACYBER
-- 👀 I’m interested in si-fi movies
-- 🌱 I’m currently learning any thing can be develop my future career
-- 💞️ I’m looking to collaborate on 1
-- 📫 How to reach me my email adrees
+- 👋 Hi, I’m @N1MACYBER 
+- 👀 I’m interested:in sci fiction movies , artificial intelligence(AI) and...
+- 🌱 I’m currently: a student in high school
+- 💞️ I’m looking to collaborate: none
+- 📫 How to reach me: my email adrees, nimagh818@gmail.com
 
 <!---
 N1MACYBER/N1MACYBER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
