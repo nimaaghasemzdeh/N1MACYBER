@@ -2,7 +2,7 @@
 - 👀 I’m interested:in sci-fiction movies , artificial intelligence(AI) and...
 - 🌱 I’m currently: a student in high school
 - 💞️ I’m looking to collaborate: [ pretty ]
-- 📫 How to reach me: my email adrees, nghasemone@gmail.com
+- 📫 How to reach me: my email adrees, nimagh818@gmail.com
 
 <!---
 N1MACYBER/N1MACYBER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
