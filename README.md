@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @N1MACYBER 
 - 👀 I’m interested:in sci-fiction movies , artificial intelligence(AI) and...
-- 🌱 I’m currently: a student in high school
-- 💞️ I’m looking to collaborate: [ pretty ]
 - 📫 How to reach me: my email adrees, nimagh818@gmail.com
 
 <!---
