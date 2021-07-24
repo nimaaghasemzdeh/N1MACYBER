@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N1MACYBER 
+- 👋 Hi, I’m @nimaaghasemzdeh
 - 👀 I’m interested:in sci-fiction movies , artificial intelligence(AI) and...
 - 📫 How to reach me: my email adrees, nimagh818@gmail.com
 
